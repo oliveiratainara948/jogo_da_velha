@@ -307,5 +307,5 @@ function verificaganhador()
         lbljogadas.innerText = '';
         return;
     }
-
+        lbljogadas.innrtText = '(' + (jogadas+1) + 'ª Jogada)';
 }
