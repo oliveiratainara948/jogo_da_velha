@@ -10,3 +10,7 @@ main {
     font-size: 30px;
     cursor: pointer;
 }
+
+body{
+    background-image: url(../img/fazenda99.jpg);
+}
