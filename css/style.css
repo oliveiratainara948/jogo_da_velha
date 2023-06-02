@@ -12,5 +12,7 @@ main {
 }
 
 body{
-    background-image: url(../img/fazenda99.jpg);
+    background-image:url(../img/fazendinha.jpg);
+    background-repeat: no-repeat;
+
 }
